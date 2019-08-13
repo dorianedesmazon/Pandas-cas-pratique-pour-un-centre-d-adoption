@@ -10,7 +10,8 @@ Nettoyage du dataset:
 2 : Fait en sorte que les noms des colonnes correspondent aux intitulés de la ligne 2. 
 3 : Propose au moins 3 visualisation pour repérer des outliers. 
 4 : Nettoie les cellules erronées en proposant une valeur de remplacement. 
-5 : Transforme les colonnes pour qu'elles soient au bon type. Par exemple la colonne "Nombre d’animal de compagnie" est de type Object alors qu'elle doit être en Float.  
+5 : Transforme les colonnes pour qu'elles soient au bon type. Par exemple la colonne "Nombre d’animal de compagnie" est de type Object alors qu'elle doit être en Float.    
+
 Explotation du dataset :  
 6 : Nettoie ton dataframe pour ne garder que les lignes 2 à 16, et les colonnes A à I, avec un autre méthode que celle de la mission 1. 
 7 : Propose au moins 3 visualisation pour ton exploration de données. 
